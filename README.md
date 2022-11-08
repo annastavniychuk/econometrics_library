@@ -25,6 +25,8 @@
 * [Using R for Introductory Econometrics (Florian Heiss)](http://urfie.net/)
 * [Guide to R For SCU Economics Students (William A. Sundstrom, Michael J. Kevane)](https://rpubs.com/wsundstrom/home)
 * [Introduction to Econometrics with R (Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer)](https://www.econometrics-with-r.org/ITER.pdf)
+* [R for Data Science (Hadley Wickham, Garrett Grolemund)](https://r4ds.had.co.nz/)
+* [Hands-On Programming with R (Garrett Grolemund)](https://rstudio-education.github.io/hopr/)
 
 ### R notebooks
 
