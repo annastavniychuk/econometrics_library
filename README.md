@@ -2,6 +2,8 @@
 
 ## На русском
 
+### Видео
+
 * [Введение в прикладную статистику и эконометрику (Архангельский, 2016)](https://www.youtube.com/playlist?list=PLuzK_a9fLhCIFWQP6Wgm0U3nExicS_cSy)
 * [Topics in Causal Inference (Архангельский, 2018)](https://www.youtube.com/playlist?list=PLjCtgsu37IBLTMkYwnFT8YDxsSUwcV4n7)
 * [Intro into Panel Data Methods (Архангельский, 2020)](https://youtube.com/playlist?list=PLjCtgsu37IBKBZ6gKh-TonB6jOKUwa4K-)
@@ -13,11 +15,16 @@
 
 ## На русском
 
+### Видео
+
 * [Разведывательный анализ данных с помощью языка R (Пензар Д, Жарикова А., Валяева А.)](https://teach-in.ru/course/intelligence-data-analysis-with-R/lecture)
-* [Циклы и функционалы в языке R (Селезнёв А.)](https://selesnow.github.io/iterations_in_r/index.html)
 * [Основы программирования на R (Антонов А.)](https://stepik.org/course/497/promo)
 * [Анализ данных в R (Иванчей И., Карпов А.)](https://stepik.org/course/129/promo)
 * [Анализ данных в R. Часть 2 (Карпов А., Грозин В., Антонов А.)](https://stepik.org/course/724/promo)
+
+### R notebooks
+
+* [Циклы и функционалы в языке R (Селезнёв А.)](https://selesnow.github.io/iterations_in_r/index.html)
 
 ## На английском
 
