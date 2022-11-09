@@ -20,17 +20,24 @@
 * [Causal analysis Impact evaluation and causal machine learning with applications in R (Martin Huber, 2021)]()
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 * [Counterfactuals and Causal Inference. Methods and Principles for Social Research (Stephen L. Morgan, Christopher Winship, 2007)](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
+* [The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days](https://egap.github.io/theory_and_practice_of_field_experiments/)
 * [Causality (Judea Pearl, 2009)](http://bayes.cs.ucla.edu/BOOK-2K/)
 * [Causal inference in statistics (Judea Pearl, Madelyn Glymour, Nicholas P. Jewell, 2016)](http://bayes.cs.ucla.edu/PRIMER/)
 * [The book of why: the new science of cause and effect (Judea Pearl, Dana Mackenzie, 2018)](http://bayes.cs.ucla.edu/WHY/)
 * [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/introduction.html)
 * [Marketing Research](https://bookdown.org/mike/marketing_research/)
 
+### Видео
+
+* [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
+* [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
+
 ### Материалы курсов
 
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/causal-inference-course)
 * [Causal Inference for the Social Sciences (Jasjeet S. Sekhon, 2015)](http://sekhon.berkeley.edu/causalinf/)
 * [Program Evaluation for Public Service (Andrew Heiss, 2020)](https://evalf20.classes.andrewheiss.com/)
+* [Class material in Statistics and Econometrics (Paolo Zacchia)](https://www.paolozacchia.com/teaching/)
 
 ### Блоги
 
