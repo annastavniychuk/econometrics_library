@@ -1,5 +1,7 @@
 # Оценка причинно-следственных связей
 
+Ридинг лист по конкретным методам находится [тут]().
+
 ## На русском
 
 ### Видео
@@ -15,6 +17,21 @@
 
 * [Causal Inference: The Mixtape (Scott Cunningham, 2021)](https://mixtape.scunning.com/)
 * [The Effect: An Introduction to Research Design and Causality (Nick Huntington-Klein, 2022)](https://theeffectbook.net/)
+* [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
+* [Counterfactuals and Causal Inference. Methods and Principles for Social Research (Stephen L. Morgan, Christopher Winship, 2007)](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
+* [Causality (Judea Pearl, 2009)](http://bayes.cs.ucla.edu/BOOK-2K/)
+* [Causal inference in statistics (Judea Pearl, Madelyn Glymour, Nicholas P. Jewell, 2016)](http://bayes.cs.ucla.edu/PRIMER/)
+* [The book of why: the new science of cause and effect (Judea Pearl, Dana Mackenzie, 2018)](http://bayes.cs.ucla.edu/WHY/)
+
+### Материалы курсов
+
+* [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/causal-inference-course)
+* [Causal Inference for the Social Sciences (Jasjeet S. Sekhon, 2015)](http://sekhon.berkeley.edu/causalinf/)
+
+### Блоги
+
+* [Causal AI Blog (Brady Neal)](https://www.bradyneal.com/)
+* [Causal Analysis in Theory and Practice](http://causality.cs.ucla.edu/blog/)
 
 # R для анализа данных
 
@@ -53,3 +70,6 @@
 * [Big Book of R (Oscar Baruffa)](https://www.bigbookofr.com/)
 * [Data Science Course in a Box](https://datasciencebox.org/content.html)
  
+#  Данные 
+
+* [Mendeley Data](https://data.mendeley.com/)
