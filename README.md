@@ -11,6 +11,11 @@
 
 ## На английском
 
+### Книги
+
+* [Causal Inference: The Mixtape (Scott Cunningham, 2021)](https://mixtape.scunning.com/)
+* [The Effect: An Introduction to Research Design and Causality (Nick Huntington-Klein, 2022)](https://theeffectbook.net/)
+
 # R для анализа данных
 
 ## На русском
