@@ -1,3 +1,5 @@
+Список черновой, будет структурироваться и дополняться.
+
 # Множественное тестирование гипотез
 
 * [Bretz F., Hothorn T., Westfall P. Multiple comparisons using R. – Chapman and Hall/CRC, 2016.](http://www.ievbras.ru/ecostat/Kiril/R/Biblio_N/R_Eng/Bretz2011.pdf)

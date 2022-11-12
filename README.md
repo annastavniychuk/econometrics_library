@@ -1,6 +1,6 @@
 # Оценка причинно-следственных связей
 
-Ридинг лист по конкретным методам находится [тут](https://github.com/annastavniychuk/econometrics_library/blob/main/reading_list.md).
+Ридинг лист по конкретным методам находится [тут](https://github.com/annastavniychuk/econometrics_library/blob/main/reading_list.md) (пока это очень черновая неразобранная версия).
 
 * [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2022)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 * [Collection of lecture notes, videos, papers, workshops, etc. (Asjad Naqvi )](https://asjadnaqvi.github.io/DiD/docs/resources#books)
