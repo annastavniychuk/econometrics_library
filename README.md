@@ -3,6 +3,7 @@
 Ридинг лист по конкретным методам находится [тут](https://github.com/annastavniychuk/econometrics_library/blob/main/reading_list.md).
 
 * [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2022)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+* [Collection of lecture notes, videos, papers, workshops, etc. (Asjad Naqvi )](https://asjadnaqvi.github.io/DiD/docs/resources#books)
 
 ## На русском
 
@@ -35,7 +36,11 @@
 
 ### Видео
 
+* [The Effect. Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 * [Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/c/NickHuntingtonKlein/featured)
+* [Causal Inference -- Online Lectures (M.Sc/PhD Level) (Ben Elsner)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
+* [Visualization, Identification, and Estimation in the Linear Panel Event-Study Design (Jesse Shapiro, Christian Hansen)](https://www.youtube.com/watch?v=hOIB3PwntYg&list=PLg-LvQ_7SfMD9d8kbSd_Ig_HB-5h6HCTx)
+* [Applied Methods PhD Course (Paul Goldsmith-Pinkham, 2021)](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
 * [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
 
@@ -51,16 +56,23 @@
 
 ### Материалы курсов
 
+* [Mixtape-Sessions (Scott Cunningham)](https://github.com/Mixtape-Sessions)
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/causal-inference-course)
 * [Causal Inference for the Social Sciences (Jasjeet S. Sekhon, 2015)](http://sekhon.berkeley.edu/causalinf/)
 * [Program Evaluation for Public Service (Andrew Heiss, 2020)](https://evalf20.classes.andrewheiss.com/)
 * [Class material in Statistics and Econometrics (Paolo Zacchia)](https://www.paolozacchia.com/teaching/)
+* [Introduction to Statistics with Computer Applications (Kyle F Butts)](https://github.com/kylebutts/ECON3818_F2021/)
+* [Applied Empirical Methods (Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
+* [Applied Econometrics at NYU Stern (Chris Conlon)](https://github.com/paulgp/applied_metrics)
 
 ### Блоги
 
 * [Causal AI Blog (Brady Neal)](https://www.bradyneal.com/)
 * [Causal Analysis in Theory and Practice](http://causality.cs.ucla.edu/blog/)
 * [Nick Huntington-Klein](https://nickchk.com/)
+* [Christine Cai](https://christinecai.github.io/items/PublicGoods.html)
+* [Andrew Baker](https://andrewcbaker.netlify.app/#articles)
+* [Paul Goldsmith-Pinkham](https://paulgp.github.io/blog.html)
 
 #### Twitter
 
@@ -90,6 +102,7 @@
 ## На английском
 
 ### Книги
+
 * [Using R for Introductory Econometrics (Florian Heiss)](http://urfie.net/)
 * [Guide to R For SCU Economics Students (William A. Sundstrom, Michael J. Kevane)](https://rpubs.com/wsundstrom/home)
 * [Introduction to Econometrics with R (Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer)](https://www.econometrics-with-r.org/ITER.pdf)

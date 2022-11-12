@@ -48,6 +48,11 @@
 * [Goodman-Bacon A. Difference-in-differences with variation in treatment timing (No. w25018; p. w25018) //National Bureau of Economic Research. https://doi. org/10. – 2018. – Т. 3386. – С. w25018.](https://www.nber.org/papers/w25018)
 * [De Chaisemartin C., d'Haultfoeuille X. Two-way fixed effects estimators with heterogeneous treatment effects //American Economic Review. – 2020. – Т. 110. – №. 9. – С. 2964-96.](https://www.nber.org/system/files/working_papers/w25904/w25904.pdf)
 * [Taking the con out of econometrics? New challenges to “Difference-in-Differences” analysis in competition cases](https://ecp.crai.com/wp-content/uploads/2021/10/CRA-competition-memo-new-challenges-to-Difference-in-Differences-analysis-in-competition-cases-Oct-2021.pdf)
+* [Staggered Difference-in-Differences in Corporate Research (Andrew C. Baker, David. F. Larcker, and Charles C.Y. Wang, 2020)](https://andrewchbaker.github.io/slides_did/#1)
+* [Difference-in-Differences Methodology (Andrew C. Baker, 2019)](https://andrewcbaker.netlify.app/2019/09/25/difference-in-differences-methodology/)
+* [How much should we trust staggered difference-in-differences estimates? (Andrew C. Baker, David F. Larcker, Charles C.Y. Wang, 2022)](https://andrewcbaker.netlify.app/publication/blw_did/BLW_DID.pdf)
+* [How To Create Relative Time Indicators (Andrew C. Baker, 2020) ](https://andrewcbaker.netlify.app/2020/06/27/how-to-create-relative-time-indicators/)
+* [What Can We Say About Medical Marijuana and Opioid Overdose Mortality? (Andrew C. Baker, 2020)](https://andrewcbaker.netlify.app/2020/06/13/what-can-we-say-about-medical-marijuana-and-opioid-overdose-mortality/)
 
 # Синтетический контроль 
 
@@ -73,6 +78,9 @@
 * [Introduction to the eventstudies package in R](https://rdrr.io/cran/eventstudies/f/inst/doc/eventstudies.pdf)
 * [eventstudy: Perform event study analysis](https://www.rdocumentation.org/packages/eventstudies/versions/1.2.2/topics/eventstudy)
 * [Package ‘EventStudy’](https://cran.r-project.org/web/packages/EventStudy/EventStudy.pdf)
+
+* [Single Firm Event Studies, Securities Fraud, and Financial Crisis - Problems of Inference (Andrew C. Baker, 2016)](https://andrewcbaker.netlify.app/publication/2016_slr_note/)
+* [Machine Learning and Predicted Returns for Event Studies in Securities Litigation (Andrew C. Baker, Jonah B. Gelbach, 2020)](https://andrewcbaker.netlify.app/publication/baker_gelbach_jlfa/)
 
 # Инструменты Бартика
 
