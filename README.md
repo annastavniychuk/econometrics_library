@@ -41,6 +41,7 @@
 * [Causal Inference -- Online Lectures (M.Sc/PhD Level) (Ben Elsner)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 * [Visualization, Identification, and Estimation in the Linear Panel Event-Study Design (Jesse Shapiro, Christian Hansen)](https://www.youtube.com/watch?v=hOIB3PwntYg&list=PLg-LvQ_7SfMD9d8kbSd_Ig_HB-5h6HCTx)
 * [Applied Methods PhD Course (Paul Goldsmith-Pinkham, 2021)](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
+* [DiD Reading Group (Taylor Wright)](https://www.youtube.com/watch?v=m1xSMNTKoMs&list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) и [Other DiD Seminars](https://www.youtube.com/watch?v=l1FLtTcpch0&list=PLVObvb_htcuBSnO_hDKePOhS7yUZbILN3)
 * [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
 
@@ -103,6 +104,7 @@
 
 ### Книги
 
+* [An Introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics (W. N. Venables, D. M. Smith, 2022)](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Using R for Introductory Econometrics (Florian Heiss)](http://urfie.net/)
 * [Guide to R For SCU Economics Students (William A. Sundstrom, Michael J. Kevane)](https://rpubs.com/wsundstrom/home)
 * [Introduction to Econometrics with R (Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer)](https://www.econometrics-with-r.org/ITER.pdf)
