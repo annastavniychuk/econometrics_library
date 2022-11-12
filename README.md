@@ -124,7 +124,3 @@
 * [Big Book of R (Oscar Baruffa)](https://www.bigbookofr.com/)
 * [Data Science Course in a Box](https://datasciencebox.org/content.html)
 * [Enhance and Advance](http://ericdunford.com/enhance_and_advance_R/)
-
-#  Данные 
-
-* [Mendeley Data](https://data.mendeley.com/)
