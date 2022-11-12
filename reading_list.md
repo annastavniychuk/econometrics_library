@@ -54,6 +54,7 @@
 * [How To Create Relative Time Indicators (Andrew C. Baker, 2020) ](https://andrewcbaker.netlify.app/2020/06/27/how-to-create-relative-time-indicators/)
 * [What Can We Say About Medical Marijuana and Opioid Overdose Mortality? (Andrew C. Baker, 2020)](https://andrewcbaker.netlify.app/2020/06/13/what-can-we-say-about-medical-marijuana-and-opioid-overdose-mortality/)
 * [DiD Reading Group (Taylor Wright)](https://taylorjwright.github.io/did-reading-group/)
+* [Metrics Discussions](https://www.chloeneast.com/metrics-discussions.html)
 
 # Синтетический контроль 
 

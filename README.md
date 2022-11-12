@@ -74,6 +74,7 @@
 * [Christine Cai](https://christinecai.github.io/items/PublicGoods.html)
 * [Andrew Baker](https://andrewcbaker.netlify.app/#articles)
 * [Paul Goldsmith-Pinkham](https://paulgp.github.io/blog.html)
+* [David Schönholzer](https://www.davidschonholzer.com/teaching.html)
 
 #### Twitter
 
