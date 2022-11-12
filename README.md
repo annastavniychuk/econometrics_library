@@ -2,6 +2,8 @@
 
 Ридинг лист по конкретным методам находится [тут](https://github.com/annastavniychuk/econometrics_library/blob/main/reading_list.md).
 
+* [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2022)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+
 ## На русском
 
 ### Видео
@@ -17,7 +19,11 @@
 
 * [Causal Inference: The Mixtape (Scott Cunningham, 2021)](https://mixtape.scunning.com/)
 * [The Effect: An Introduction to Research Design and Causality (Nick Huntington-Klein, 2022)](https://theeffectbook.net/)
-* [Causal analysis Impact evaluation and causal machine learning with applications in R (Martin Huber, 2021)]()
+* [Causal Inference: What If (Miguel Hernan, Jamie Robins, 2020)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+* [Mostly Harmess Econometrics (Joshua D. Angrist, Jörn-Steffen Pischke)](https://www.mostlyharmlesseconometrics.com/)
+* [Mastering ‘Metrics (Joshua D. Angrist, Jörn-Steffen Pischke)](https://www.masteringmetrics.com/)
+* [Causal Inference for The Brave and True (Matheus Facure)](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+* [Statistical Tools for Causal Inference (Sylvain Chabé-Ferret, 2022)](https://chabefer.github.io/STCI/)
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 * [Counterfactuals and Causal Inference. Methods and Principles for Social Research (Stephen L. Morgan, Christopher Winship, 2007)](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
 * [The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days](https://egap.github.io/theory_and_practice_of_field_experiments/)
@@ -29,8 +35,19 @@
 
 ### Видео
 
+* [Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/c/NickHuntingtonKlein/featured)
 * [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
+
+#### AEA Continuing Education Webcasts
+* [Mastering Mostly Harmless Econometrics (Alberto Abadie, Joshua Angrist, and Christopher Walters, 2020)](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
+* [Cross-Section Econometrics (Alberto Abadie, Joshua Angrist, Christopher Walters, 2017)](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
+* [Time Series Econometrics (James H. Stock and Mark W. Watson, 2015)](https://www.aeaweb.org/webcasts/2015/continuing-education.php)
+* [Сross-Section Econometrics (Alberto Abadie and Joshua Angrist, 2014)](https://www.aeaweb.org/webcasts/2014/conted.php)
+* [Time Series Econometrics (Giorgio Primiceri and Frank Schorfheide, 2013)](https://www.aeaweb.org/webcasts/2013/conted.php)
+* [Cross-section Econometrics (Guido Imbens and Jeffrey Wooldridge, 2012)](https://www.aeaweb.org/webcasts/2012/index.php)
+* [Time-Series Econometrics (James H. Stock and Mark W. Watson, 2010)](https://www.aeaweb.org/webcasts/assa2010.php)
+* [Cross-Section Econometrics (Jeffrey Wooldridge and Guido Imbens, 2009)](https://www.aeaweb.org/webcasts/assa2009.php)
 
 ### Материалы курсов
 
@@ -43,6 +60,17 @@
 
 * [Causal AI Blog (Brady Neal)](https://www.bradyneal.com/)
 * [Causal Analysis in Theory and Practice](http://causality.cs.ucla.edu/blog/)
+* [Nick Huntington-Klein](https://nickchk.com/)
+
+#### Twitter
+
+* [Martin Huber](https://twitter.com/CausalHuber)
+* [Nick Huntington-Klein](https://twitter.com/nickchk)
+* [Sylvain Chabé-Ferret](https://sites.google.com/site/sylvainchabeferret/teaching?authuser=0)
+
+#### EconTwitter (Mastodon)
+
+* [Martin Huber](https://econtwitter.net/@CausalHuber)
 
 # R для анализа данных
 
