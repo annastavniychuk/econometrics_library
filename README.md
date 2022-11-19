@@ -28,11 +28,13 @@
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 * [Counterfactuals and Causal Inference. Methods and Principles for Social Research (Stephen L. Morgan, Christopher Winship, 2007)](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
 * [The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days](https://egap.github.io/theory_and_practice_of_field_experiments/)
+* [Using R for introductory econometrics (Heiss, 2016)](http://www.urfie.net/)
 * [Causality (Judea Pearl, 2009)](http://bayes.cs.ucla.edu/BOOK-2K/)
 * [Causal inference in statistics (Judea Pearl, Madelyn Glymour, Nicholas P. Jewell, 2016)](http://bayes.cs.ucla.edu/PRIMER/)
 * [The book of why: the new science of cause and effect (Judea Pearl, Dana Mackenzie, 2018)](http://bayes.cs.ucla.edu/WHY/)
 * [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/introduction.html)
 * [Marketing Research](https://bookdown.org/mike/marketing_research/)
+* [Introduction to Causal Inference from a Machine Learning Perspective (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 
 ### Видео
 
