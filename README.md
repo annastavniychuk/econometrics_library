@@ -67,6 +67,7 @@
 * [Introduction to Statistics with Computer Applications (Kyle F Butts)](https://github.com/kylebutts/ECON3818_F2021/)
 * [Applied Empirical Methods (Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
 * [Applied Econometrics at NYU Stern (Chris Conlon)](https://github.com/paulgp/applied_metrics)
+* [Data Science for Business Applications (Magdalena Bennett)](https://sta235.netlify.app/)
 
 ### Блоги
 
