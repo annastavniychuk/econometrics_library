@@ -68,6 +68,9 @@
 * [Applied Empirical Methods (Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
 * [Applied Econometrics at NYU Stern (Chris Conlon)](https://github.com/paulgp/applied_metrics)
 * [Data Science for Business Applications (Magdalena Bennett)](https://sta235.netlify.app/)
+* [Probability and Statistics / Econometric Theory / Microeconometrics (Paolo Zacchia)](https://www.paolozacchia.com/teaching/)
+* [Graduate econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
+* [Topics in Econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
 
 ### Блоги
 
