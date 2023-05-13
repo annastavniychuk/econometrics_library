@@ -21,6 +21,7 @@
 * [Olmos A., Govindasamy P. Propensity scores: a practical introduction using R //Journal of MultiDisciplinary Evaluation. – 2015. – Т. 11. – №. 25. – С. 68-88.](https://journals.sfu.ca/jmde/index.php/jmde_1/article/view/431/414)
 * [MatchIt: Getting Started](https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html)
 * [King G., Nielsen R. Why propensity scores should not be used for matching //Political Analysis. – 2019. – Т. 27. – №. 4. – С. 435-454.](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)
+* [Gary King, "Why Propensity Scores Should Not Be Used for Matching"]([https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching](https://www.youtube.com/watch?v=rBv39pK1iEs))
 
 # Гетерогенные эффекты 
 
@@ -68,6 +69,9 @@
 * [More public policy analysis: synthetic control in under an hour](https://thesamuelsoncondition.com/2016/04/29/more-public-policy-analysis-synthetic-control-in-under-an-hour/)
 * [Ferman B., Pinto C. Placebo tests for synthetic controls. – 2017.](https://mpra.ub.uni-muenchen.de/78079/)
 * [Roth J. et al. What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature //arXiv preprint arXiv:2201.01194. – 2022.](https://arxiv.org/abs/2201.01194)
+* [Khvan, M., & Yakovlev, E. (2021). Death Toll of Price Limits and Protectionism in the Russian Pharmaceutical Market. Available at SSRN 3821615.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821615)
+* [Allcott H., Gentzkow M., Song L. Digital addiction //American Economic Review. – 2022. – Т. 112. – №. 7. – С. 2424-63.](http://web.stanford.edu/~gentzkow/research/DigitalAddiction.pdf)
+* [Ferman B., Pinto C. Placebo tests for synthetic controls. – 2017.](https://mpra.ub.uni-muenchen.de/78079/)
 
 # Событийный анализ
 
