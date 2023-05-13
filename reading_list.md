@@ -3,6 +3,7 @@
 # Множественное тестирование гипотез
 
 * [Bretz F., Hothorn T., Westfall P. Multiple comparisons using R. – Chapman and Hall/CRC, 2016.](http://www.ievbras.ru/ecostat/Kiril/R/Biblio_N/R_Eng/Bretz2011.pdf)
+* [The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days (Jake Bowers,Maarten Voors, Nahomi Ichino)](https://egap.github.io/theory_and_practice_of_field_experiments/)
 
 # Плохой контроль 
 
@@ -102,5 +103,5 @@
 
 * [Yao L. et al. A survey on causal inference //ACM Transactions on Knowledge Discovery from Data (TKDD). – 2021. – Т. 15. – №. 5. – С. 1-46.](https://arxiv.org/pdf/2002.02770.pdf)
 * [Mehmood S., Naseer S., Chen D. L. Training policymakers in econometrics //NBER working paper. – 2021.](https://users.nber.org/~dlchen/papers/Training_Policy_Makers_in_Econometrics.pdf)
-
+* [Applied Missing Data Analysis (Heymans, Eekhout)](https://bookdown.org/mwheymans/bookmi/)
 
