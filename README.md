@@ -71,7 +71,8 @@
 * [Probability and Statistics / Econometric Theory / Microeconometrics (Paolo Zacchia)](https://www.paolozacchia.com/teaching/)
 * [Graduate econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
-
+* [Causal Inference (Stefan Wager)](https://web.stanford.edu/~swager/teaching.html)
+* 
 ### Блоги
 
 * [Causal AI Blog (Brady Neal)](https://www.bradyneal.com/)
