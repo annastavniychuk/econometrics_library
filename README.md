@@ -35,6 +35,8 @@
 * [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/introduction.html)
 * [Marketing Research](https://bookdown.org/mike/marketing_research/)
 * [Introduction to Causal Inference from a Machine Learning Perspective (Brady Neal, 2020)](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
+* [Research Design in the Social Sciences (Declaration, Diagnosis, Redesign)](https://book.declaredesign.org/)
+
 
 ### Видео
 
@@ -73,6 +75,7 @@
 * [Topics in Econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
 * [Causal Inference (Stefan Wager)](https://web.stanford.edu/~swager/teaching.html)
 * [Econometrics (Undergraduate)(Daniele Girardi)](https://danielegirardi.github.io/teaching/)
+* [Introduction to Probability and Statistics (Kyle Butts)](https://www.kylebutts.com/teaching/)
 
 
 ### Блоги
