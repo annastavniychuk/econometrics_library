@@ -72,7 +72,9 @@
 * [Graduate econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometrics (Ivan A. Canay)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
 * [Causal Inference (Stefan Wager)](https://web.stanford.edu/~swager/teaching.html)
-* 
+* [Econometrics (Undergraduate)(Daniele Girardi)](https://danielegirardi.github.io/teaching/)
+
+
 ### Блоги
 
 * [Causal AI Blog (Brady Neal)](https://www.bradyneal.com/)
