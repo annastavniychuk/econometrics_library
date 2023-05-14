@@ -4,6 +4,7 @@
 
 * [Bretz F., Hothorn T., Westfall P. Multiple comparisons using R. – Chapman and Hall/CRC, 2016.](http://www.ievbras.ru/ecostat/Kiril/R/Biblio_N/R_Eng/Bretz2011.pdf)
 * [The Theory and Practice of Field Experiments: An Introduction from the EGAP Learning Days (Jake Bowers,Maarten Voors, Nahomi Ichino)](https://egap.github.io/theory_and_practice_of_field_experiments/)
+* [PASSED: Calculate Power and Sample Size for Two Sample Tests](https://journal.r-project.org/archive/2021/RJ-2021-094/index.html)
 
 # Плохой контроль 
 
@@ -23,6 +24,7 @@
 * [MatchIt: Getting Started](https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html)
 * [King G., Nielsen R. Why propensity scores should not be used for matching //Political Analysis. – 2019. – Т. 27. – №. 4. – С. 435-454.](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)
 * [Gary King, "Why Propensity Scores Should Not Be Used for Matching"]([https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching](https://www.youtube.com/watch?v=rBv39pK1iEs))
+* [MatchThem:: Matching and Weighting after Multiple Imputation](https://journal.r-project.org/archive/2021/RJ-2021-073/index.html)
 
 # Гетерогенные эффекты 
 
@@ -61,6 +63,8 @@
 * [DiD Reading Group (Taylor Wright)](https://taylorjwright.github.io/did-reading-group/)
 * [Metrics Discussions](https://www.chloeneast.com/metrics-discussions.html)
 * [Package ‘lfe’](https://cran.r-project.org/web/packages/lfe/lfe.pdf)
+* [Difference-in-Differences](https://diff.healthpolicydatascience.org/)
+* [Two-stage differences in differences (John Gardner)](https://jrgcmu.github.io/2sdd_current.pdf)
 
 # Синтетический контроль 
 
@@ -107,4 +111,14 @@
 * [Mehmood S., Naseer S., Chen D. L. Training policymakers in econometrics //NBER working paper. – 2021.](https://users.nber.org/~dlchen/papers/Training_Policy_Makers_in_Econometrics.pdf)
 * [Applied Missing Data Analysis (Heymans, Eekhout)](https://bookdown.org/mwheymans/bookmi/)
 * [Causal Inference cheat sheet for data scientists](http://nc233.com/2020/04/causal-inference-cheat-sheet-for-data-scientists/)
+* [Automatic Time Series Forecasting with Ata Method in R: ATAforecasting Package](https://journal.r-project.org/archive/2021/RJ-2021-101/index.html)
+* [Conversations in Time: Interactive Visualization to Explore Structured Temporal Data](https://journal.r-project.org/archive/2021/RJ-2021-050/index.html)
+* [tsibbletalk](https://github.com/earowang/tsibbletalk)
+* [Economics charts in R using ggplot2](https://r-coder.com/economics-charts-r/)
+* [Анализ временных рядов с помощью R (Мастицкий С. Э.)](https://ranalytics.github.io/tsa-with-r/)
+* [modelplotr v1.0 now on CRAN: Visualize the Business Value of your Predictive Model](https://modelplot.github.io/intro_modelplotr.html)
+* [{ggstatsplot}: {ggplot2} Based Plots with Statistical Details](https://indrajeetpatil.github.io/ggstatsplot/)
+* [Data Cleaning in R: 2 R Packages to Clean and Validate Datasets](https://www.r-bloggers.com/2022/05/data-cleaning-in-r-2-r-packages-to-clean-and-validate-datasets/)
+* [ComplexUpset](https://cran.r-project.org/web/packages/ComplexUpset/vignettes/Examples_R.html)
+* [Causal Flows. A casual introduction to causal inference for business analytics (Ken Acquah)](https://www.causalflows.com/)
 
