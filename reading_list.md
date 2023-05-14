@@ -43,6 +43,7 @@
 * [cheatsheets sf](https://github.com/rstudio/cheatsheets/blob/main/sf.pdf)
 * [Lehner A. Culture, Institutions, and the Roots of Gender Inequality: 450 Years of Portuguese Colonialism in India. – 2021.](https://lehner.xyz/pdf/Lehner_Goa_Rootsgender.pdf)
 * [Lehner A. Culture, Institutions, and the Roots of Gender Inequality: 450 Years of Portuguese Colonialism in India. – 2021.](https://lehner.xyz/pdf/Lehner_Goa_Rootsgender.pdf)
+* [Regression Discontinuity Design (Evidence Space)](https://colorful-smelt-ead.notion.site/Regression-Discontinuity-Design-a6b019a0c0ca42769961ee2849cc110b)
 
 # Разность разностей
 
