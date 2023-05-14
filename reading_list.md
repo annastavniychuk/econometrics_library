@@ -106,4 +106,5 @@
 * [Yao L. et al. A survey on causal inference //ACM Transactions on Knowledge Discovery from Data (TKDD). – 2021. – Т. 15. – №. 5. – С. 1-46.](https://arxiv.org/pdf/2002.02770.pdf)
 * [Mehmood S., Naseer S., Chen D. L. Training policymakers in econometrics //NBER working paper. – 2021.](https://users.nber.org/~dlchen/papers/Training_Policy_Makers_in_Econometrics.pdf)
 * [Applied Missing Data Analysis (Heymans, Eekhout)](https://bookdown.org/mwheymans/bookmi/)
+* [Causal Inference cheat sheet for data scientists](http://nc233.com/2020/04/causal-inference-cheat-sheet-for-data-scientists/)
 
