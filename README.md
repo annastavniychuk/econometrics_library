@@ -124,6 +124,8 @@
 * [R for Data Science (Hadley Wickham, Garrett Grolemund)](https://r4ds.had.co.nz/)
 * [Hands-On Programming with R (Garrett Grolemund)](https://rstudio-education.github.io/hopr/)
 * [Data Science: A First Introduction (Tiffany Timbers, Trevor Campbell, and Melissa Lee)](https://datasciencebook.ca/)
+* [YaRrr! The Pirate’s Guide to R (Nathaniel D. Phillips)](https://bookdown.org/ndphillips/YaRrr/)
+* [Advanced R (Hadley Wickham)](http://adv-r.had.co.nz/)
 
 ### R notebooks
 
