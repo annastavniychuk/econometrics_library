@@ -21,3 +21,10 @@
 * [Cross-section Econometrics (Guido Imbens and Jeffrey Wooldridge, 2012)](https://www.aeaweb.org/webcasts/2012/index.php)
 * [Time-Series Econometrics (James H. Stock and Mark W. Watson, 2010)](https://www.aeaweb.org/webcasts/assa2010.php)
 * [Cross-Section Econometrics (Jeffrey Wooldridge and Guido Imbens, 2009)](https://www.aeaweb.org/webcasts/assa2009.php)
+
+## Russian
+
+* [Введение в прикладную статистику и эконометрику (Архангельский, 2016)](https://www.youtube.com/playlist?list=PLuzK_a9fLhCIFWQP6Wgm0U3nExicS_cSy)
+* [Topics in Causal Inference (Архангельский, 2018)](https://www.youtube.com/playlist?list=PLjCtgsu37IBLTMkYwnFT8YDxsSUwcV4n7)
+* [Intro into Panel Data Methods (Архангельский, 2020)](https://youtube.com/playlist?list=PLjCtgsu37IBKBZ6gKh-TonB6jOKUwa4K-)
+* [Intro to Experimental Analysis (Архангельский, 2021)](https://youtube.com/playlist?list=PLET5dyRE_xmIwltHjvqXe_WKtrHE7LqIG)
