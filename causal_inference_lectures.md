@@ -24,6 +24,8 @@
 
 ## Russian
 
+### Lectures
+
 * [Введение в прикладную статистику и эконометрику (Архангельский, 2016)](https://www.youtube.com/playlist?list=PLuzK_a9fLhCIFWQP6Wgm0U3nExicS_cSy)
 * [Topics in Causal Inference (Архангельский, 2018)](https://www.youtube.com/playlist?list=PLjCtgsu37IBLTMkYwnFT8YDxsSUwcV4n7)
 * [Intro into Panel Data Methods (Архангельский, 2020)](https://youtube.com/playlist?list=PLjCtgsu37IBKBZ6gKh-TonB6jOKUwa4K-)
