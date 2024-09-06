@@ -4,7 +4,7 @@
 
 - [Books](https://github.com/annastavniychuk/econometrics_library/blob/main/causal_inference_books.md)
 - [Lectures](https://github.com/annastavniychuk/econometrics_library/blob/main/causal_inference_lectures.md)
-- Courses
+- [Courses](https://github.com/annastavniychuk/econometrics_library/blob/main/causal_inference_courses.md)
   
 ## R and Statistics
 
