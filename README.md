@@ -104,10 +104,10 @@
 
 ### Видео
 
-* [Разведывательный анализ данных с помощью языка R (Пензар Д, Жарикова А., Валяева А.)](https://teach-in.ru/course/intelligence-data-analysis-with-R/lecture)
-* [Основы программирования на R (Антонов А.)](https://stepik.org/course/497/promo)
-* [Анализ данных в R (Иванчей И., Карпов А.)](https://stepik.org/course/129/promo)
-* [Анализ данных в R. Часть 2 (Карпов А., Грозин В., Антонов А.)](https://stepik.org/course/724/promo)
+* [Разведывательный анализ данных с помощью языка R (Пензар Д, Жарикова А., Валяева А., 2023)](https://teach-in.ru/course/intelligence-data-analysis-with-R/lecture)
+* [Основы программирования на R (Антонов А., 2021)](https://stepik.org/course/497/promo)
+* [Анализ данных в R (Иванчей И., Карпов А., 2023)](https://stepik.org/course/129/promo)
+* [Анализ данных в R. Часть 2 (Карпов А., Грозин В., Антонов А., 2023)](https://stepik.org/course/724/promo)
 * [Язык R для пользователей Excel (Алексей Селезнёв, 2022)](https://selesnow.github.io/r4excel_users/)
 * [Введение в dplyr 1.0.0 (Алексей Селезнёв, 2023)](https://selesnow.github.io/dplyr_1_0_0_course/)
 * [Курс ‘Циклы и функционалы в языке R’ (Алексей Селезнёв, 2022)](https://selesnow.github.io/iterations_in_r/)
@@ -144,7 +144,7 @@
 * [Advanced R Solutions (Malte Grosser, Malte Grosser, Hadley Wickham, 2019)](https://advanced-r-solutions.rbind.io/)
 * [R Packages (Hadley Wickham, Jennifer Bryan, 2023)](https://r-pkgs.org/)
 * [An Introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics (W. N. Venables, D. M. Smith, 2022)](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
-* [Using R for Introductory Econometrics (Florian Heiss)](http://urfie.net/)
+* [Using R for Introductory Econometrics (Florian Heiss, 2020)](http://urfie.net/)
 * [Guide to R For SCU Economics Students (William A. Sundstrom, Michael J. Kevane)](https://rpubs.com/wsundstrom/home)
 * [Introduction to Econometrics with R (Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer)](https://www.econometrics-with-r.org/ITER.pdf)
 * [R for Data Science (Hadley Wickham, Garrett Grolemund)](https://r4ds.had.co.nz/)
