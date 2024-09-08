@@ -65,7 +65,10 @@
 ### Материалы курсов
 
 * [Mixtape-Sessions (Scott Cunningham)](https://github.com/Mixtape-Sessions)
+* [PhD Applied Econometrics (Kirill Borusyak, 2023)](https://github.com/borusyak/are213)
 * [Introduction to Causal Inference (Brady Neal, 2020)](https://www.bradyneal.com/causal-inference-course)
+* [Causal Inference with Applications (Kosuke Imai, 2021)](https://imai.fas.harvard.edu/teaching/cause.html)
+* [Causal Inference with Applications (Matthew Blackwell, 2021)](https://mattblackwell.github.io/gov2003-f21-site/)
 * [Causal Inference for the Social Sciences (Jasjeet S. Sekhon, 2015)](http://sekhon.berkeley.edu/causalinf/)
 * [Program Evaluation for Public Service (Andrew Heiss, 2020)](https://evalf20.classes.andrewheiss.com/)
 * [Class material in Statistics and Econometrics (Paolo Zacchia)](https://www.paolozacchia.com/teaching/)
