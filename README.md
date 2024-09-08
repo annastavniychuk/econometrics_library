@@ -108,10 +108,31 @@
 * [Основы программирования на R (Антонов А.)](https://stepik.org/course/497/promo)
 * [Анализ данных в R (Иванчей И., Карпов А.)](https://stepik.org/course/129/promo)
 * [Анализ данных в R. Часть 2 (Карпов А., Грозин В., Антонов А.)](https://stepik.org/course/724/promo)
+* [Язык R для пользователей Excel (Алексей Селезнёв, 2022)](https://selesnow.github.io/r4excel_users/)
+* [Введение в dplyr 1.0.0 (Алексей Селезнёв, 2023)](https://selesnow.github.io/dplyr_1_0_0_course/)
+* [Курс ‘Циклы и функционалы в языке R’ (Алексей Селезнёв, 2022)](https://selesnow.github.io/iterations_in_r/)
+* [Разработка telegram ботов на языке R (Алексей Селезнёв, 2024)](https://selesnow.github.io/build_telegram_bot_using_r/)
+* [Курс "Язык R для интернет маркетинга" (Алексей Селезнёв, 2022)](https://github.com/selesnow/r_for_marketing)
+* [Курс 'Разработка пакетов на языке R' (Алексей Селезнёв, 2023)](https://selesnow.github.io/r_package_course/index.html)
 
 ### R notebooks
 
-* [Циклы и функционалы в языке R (Селезнёв А.)](https://selesnow.github.io/iterations_in_r/index.html)
+* [Анализ данных и статистика в R (Иван Поздняков, 2024)](https://pozdniakov.github.io/tidy_stats/)
+* [R Intro (Филипп Управителев, 2022)](https://rintro.ru/)
+* [Заметки по R (Борис Демешев, 2016)](https://bdemeshev.github.io/r_cycle/)
+* [Анализ данных и машинное обучение для исследователей (Ангельгардт, 2023)](https://angelgardt.github.io/wlm2023/hub/)
+* [Статистика, R и анализ данных (Поздняков Иван, Петухова Татьяна, 2020)](https://pozdniakov.github.io/stats/)
+* [Наука о данных в R для программы Цифровых гуманитарных исследований (Георгий Мороз)](https://agricolamz.github.io/DS_for_DH/)
+* [Анализ временных рядов с помощью R (Сергей Мастицкий, 2020)](https://ranalytics.github.io/tsa-with-r/)
+* [Классификация, регрессия и другие алгоритмы Data Mining с использованием R (Шитиков В. К., Мастицкий С. Э., 2017)](https://ranalytics.github.io/data-mining/index.html)
+* [Визуализация и анализ географических данных на языке R (Тимофей Самсонов, 2023)](https://tsamsonov.github.io/r-geo-course/)
+* [Пространственная статистика на языке R (Тимофей Самсонов, 2023)](https://tsamsonov.github.io/r-spatstat-course/)
+
+### Книги
+
+* [Наглядная статистика. Используем R! (А. Б. Шипунов и др., 2014)](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf)
+* [Статистический анализ данных в системе R (А. Г. Буховец и др., 2010)](https://gis-lab.info/docs/books/moskalev2010_statistical_analysis_with_r.pdf)
+* [Статистический анализ и визуализация данных с помощью R (Мастицкий С. Э., Шитиков В. К., 2015)](https://github.com/materov/RStudy/blob/master/%D0%9F%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%91%D0%B0%D0%B1%D0%B5%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%20%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A1%D0%B8%D0%B1%D0%9F%D0%A1%D0%90.pdf)
 
 ## На английском
 
