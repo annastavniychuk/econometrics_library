@@ -138,6 +138,11 @@
 
 ### Книги
 
+* [R for Data Science (Garrett Grolemund, Hadley Wickham, 2023)](https://r4ds.hadley.nz/)
+* [R Cookbook (Paul Teetor, 2019)](https://rc2e.com/)
+* [Advanced R (Hadley Wickham, 2019)](https://adv-r.hadley.nz/)
+* [Advanced R Solutions (Malte Grosser, Malte Grosser, Hadley Wickham, 2019)](https://advanced-r-solutions.rbind.io/)
+* [R Packages (Hadley Wickham, Jennifer Bryan, 2023)](https://r-pkgs.org/)
 * [An Introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics (W. N. Venables, D. M. Smith, 2022)](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Using R for Introductory Econometrics (Florian Heiss)](http://urfie.net/)
 * [Guide to R For SCU Economics Students (William A. Sundstrom, Michael J. Kevane)](https://rpubs.com/wsundstrom/home)
@@ -146,7 +151,7 @@
 * [Hands-On Programming with R (Garrett Grolemund)](https://rstudio-education.github.io/hopr/)
 * [Data Science: A First Introduction (Tiffany Timbers, Trevor Campbell, and Melissa Lee)](https://datasciencebook.ca/)
 * [YaRrr! The Pirate’s Guide to R (Nathaniel D. Phillips)](https://bookdown.org/ndphillips/YaRrr/)
-* [Advanced R (Hadley Wickham)](http://adv-r.had.co.nz/)
+* 
 
 ### R notebooks
 
