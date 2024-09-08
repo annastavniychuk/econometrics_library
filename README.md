@@ -50,6 +50,9 @@
 * [DiD Reading Group (Taylor Wright)](https://www.youtube.com/watch?v=m1xSMNTKoMs&list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) и [Other DiD Seminars](https://www.youtube.com/watch?v=l1FLtTcpch0&list=PLVObvb_htcuBSnO_hDKePOhS7yUZbILN3)
 * [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
+* [NBER SI 2024 Methods Lecture: New Developments in Experimental Design and Analysis](https://www.nber.org/conferences/si-2024-methods-lecture-new-developments-experimental-design-and-analysis)
+  * Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning (Susan Athey)
+  * Interference and Spillovers in Randomized Experiments (Guido Imbens)
 
 #### AEA Continuing Education Webcasts
 
